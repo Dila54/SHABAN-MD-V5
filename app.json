@@ -86,7 +86,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "94741154911"
 
     }, 
 
@@ -132,7 +132,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "94741154911"
 
     }, 
 
@@ -196,7 +196,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "☠️,"
     }, 
     
     "ANTI_DEL_PATH": {
